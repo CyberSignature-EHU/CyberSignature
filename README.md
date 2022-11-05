@@ -1,14 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
 
@@ -18,24 +8,21 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-
-
-
-<!-- PROJECT LOGO -->
-
-<div align="center">
-  <h3 align="center">CyberSignature</h3>
-
-  <p align="center">
-    A demo software for online payment authentication
-    <br />
+  <p align="left">
     <a href="https://www.youtube.com/watch?v=CaVNFbvKQgo&t=14s">View Demo</a>
     ·
     <a href="https://github.com/CyberSignature-EHU/CyberSignature/issues">Report Bug</a>
   </p>
+
+<!-- PROJECT LOGO -->
+
+<div align="left">
+  <h1 align="left">CyberSignature</h1>
+  A demo software for online payment authentication
+
 </div>
 
-
+</br>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -75,7 +62,7 @@ from a graphical user interface, similar to an online payment form, and transfor
 The home screen is shown below:
 
 <p align="left">
-  <img width="500" height="500" src="https://github.com/CyberSignature-EHU/CyberSignature/blob/main/images/screenshot.png">
+  <img width="430" height="400" src="https://github.com/CyberSignature-EHU/CyberSignature/blob/main/images/screenshot.png">
 </p>
 
 ### Built With
