@@ -92,6 +92,7 @@ _You must install the following Python packages to run the software._
   ```sh
   Package         Version
   ------------    ------------
+  python          3.8.8
   numpy           1.21.5
   pandas          1.4.4
   kivy            2.0.0
@@ -106,9 +107,9 @@ _Below is an example of how you can download the CyberSignature project from Git
    ```sh
    git clone https://github.com/CyberSignature-EHU/CyberSignature.git
    ```
-2. create a Python environment for the CyberSignature project called `cs_project/`, which has the following directory tree.
+2. create a Python environment for the CyberSignature project called `project/`, which has the following directory tree.
    ```sh
-   cs_project/
+   project/
    |
    |_ false_data/
    |_ saved_models/
@@ -118,7 +119,7 @@ _Below is an example of how you can download the CyberSignature project from Git
    
    ```
 3. Install  prerequisite packages above
-4. Run the `application.py` file
+4. Run the `application.py` file to open the application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
