@@ -11,23 +11,19 @@
 
 
 <!-- PROJECT SHIELDS -->
-<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-</div>
+
 
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/CyberSignature-EHU/CyberSignature">
-    <img src="images/cs_logo.png" alt="Logo" width="40" height="40">
-  </a>
 
+<div align="center">
   <h3 align="center">CyberSignature</h3>
 
   <p align="center">
@@ -78,7 +74,9 @@ is implemented in Python, with a machine learning algorithm at its core. It rece
 from a graphical user interface, similar to an online payment form, and transforms them into unique digital identities.
 The home screen is shown below:
 
-[![CyberSignature Screen Shot][product-screenshot]](https://github.com/CyberSignature-EHU/CyberSignature/blob/main/images/screenshot.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/CyberSignature-EHU/CyberSignature/blob/main/images/screenshot.png">
+</p>
 
 ### Built With
 
@@ -235,8 +233,6 @@ dynamics dataset for the software development and validation.
 
 [Twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [Twitter-url]: https://twitter.com/nonsonnamoko
-
-[product-screenshot]: images/screenshot.png
 
 [Python]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://python.org/
