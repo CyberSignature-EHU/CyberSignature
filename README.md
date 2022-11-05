@@ -74,8 +74,8 @@ is implemented in Python, with a machine learning algorithm at its core. It rece
 from a graphical user interface, similar to an online payment form, and transforms them into unique digital identities.
 The home screen is shown below:
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/CyberSignature-EHU/CyberSignature/blob/main/images/screenshot.png">
+<p align="left">
+  <img width="500" height="500" src="https://github.com/CyberSignature-EHU/CyberSignature/blob/main/images/screenshot.png">
 </p>
 
 ### Built With
