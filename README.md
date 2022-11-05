@@ -11,13 +11,13 @@
 
 
 <!-- PROJECT SHIELDS -->
-
+<div align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
+</div>
 
 
 
@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CyberSignature-EHU/CyberSignature">
-    <img src="images/cs_logo.png" alt="Logo" width="80" height="80">
+    <img src="images/cs_logo.png" alt="Logo" width="40" height="40">
   </a>
 
   <h3 align="center">CyberSignature</h3>
