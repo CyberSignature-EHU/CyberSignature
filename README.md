@@ -75,7 +75,7 @@ from a graphical user interface, similar to an online payment form, and transfor
 The home screen is shown below:
 
 <p align="left">
-  <img width="500" height="500" src="https://github.com/CyberSignature-EHU/CyberSignature/tree/main/images/screenshot.png">
+  <img width="500" height="500" src="https://github.com/CyberSignature-EHU/CyberSignature/blob/main/images/screenshot.png">
 </p>
 
 ### Built With
